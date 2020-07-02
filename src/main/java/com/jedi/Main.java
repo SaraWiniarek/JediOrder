@@ -7,7 +7,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		JFrame window = new JFrame("System zarz�dzania Jedi");
+		JFrame window = new JFrame("System zarządzania Jedi");
 		window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		window.setVisible(true);
 		window.setResizable(false);
